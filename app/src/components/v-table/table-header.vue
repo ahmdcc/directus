@@ -444,7 +444,7 @@ function toggleManualSort() {
 	border-radius: 50%;
 	border: var(--theme--background) 6px solid;
 	box-sizing: content-box;
-	margin-right: 8px;
+	margin-left: 8px;
 	vertical-align: middle;
 }
 </style>

@@ -117,7 +117,7 @@ const unsortableJunctionFields = computed(() => {
 						:placeholder="t('collection_key') + '...'"
 						:disabled="autoGenerateJunctionRelation || isExisting"
 					/>
-					<v-icon class="arrow" name="arrow_back" />
+					<v-icon class="arrow" name="arrow_forward" />
 				</div>
 			</div>
 
@@ -125,7 +125,7 @@ const unsortableJunctionFields = computed(() => {
 
 			<div class="field-wrapper">
 				<related-field-select v-model="junctionFieldRelated" :disabled="autoGenerateJunctionRelation || isExisting" />
-				<v-icon class="arrow" name="arrow_back" />
+				<v-icon class="arrow" name="arrow_forward" />
 			</div>
 
 			<v-input disabled :model-value="t('primary_key')" />

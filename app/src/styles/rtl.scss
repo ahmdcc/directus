@@ -1,0 +1,38 @@
+.title {
+	margin-right: 15px;
+}
+.v-divider span.wrapper .v-icon {
+	margin-right: 0;
+	margin-left: 5px;
+	transform: translateY(-1px);
+}
+.v-card-actions > .v-button + .v-button {
+	margin-bottom: 0;
+	margin-right: 12px;
+	margin-left: 0;
+}
+.label .v-icon,
+.regenerate-icon {
+	margin-left: 4px;
+	margin-right: 0px;
+}
+.v-input .input .append {
+	margin-right: 4px;
+	margin-left: 0 !important;
+}
+.preview {
+	margin-left: 8px !important;
+}
+.title-container .headline {
+	right: 0;
+}
+.title {
+	margin-left: 15px;
+	margin-right: 0;
+}
+.v-drawer {
+	.cancel {
+		z-index: 55;
+		margin-left: 5px;
+	}
+}

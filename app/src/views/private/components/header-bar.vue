@@ -134,7 +134,7 @@ onUnmounted(() => {
 			padding-right: 0;
 			@media (min-width: 600px) {
 				margin-right: 20px;
-				padding-right: 20px;
+				padding-left: 20px;
 			}
 		}
 

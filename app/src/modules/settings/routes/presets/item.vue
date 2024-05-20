@@ -469,7 +469,7 @@ function discardAndLeave() {
 			</template>
 			<template #title-outer:prepend>
 				<v-button class="header-icon" rounded icon exact to="/settings/presets">
-					<v-icon name="arrow_back" />
+					<v-icon name="arrow_forward" />
 				</v-button>
 			</template>
 

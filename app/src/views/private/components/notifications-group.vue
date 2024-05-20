@@ -79,13 +79,13 @@ const queue = toRefs(notificationsStore).queue;
 }
 
 .slide-fade-enter-from {
-	transform: translateX(50px) scaleY(0) scaleX(0);
+	transform: translateX(-50px) scaleY(0) scaleX(0);
 	transform-origin: right bottom;
 	opacity: 0;
 }
 
 .slide-fade-leave-to {
-	transform: translateX(50px) scaleX(0);
+	transform: translateX(-50px) scaleX(0);
 	transform-origin: right;
 	opacity: 0;
 	transition-timing-function: cubic-bezier(0.4, 0, 1, 1);

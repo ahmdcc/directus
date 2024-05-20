@@ -179,7 +179,7 @@ function setValueAt(index: number, newVal: any) {
 	align-items: center;
 
 	.v-icon {
-		margin-right: 8px;
+		margin-left: 8px;
 		margin-left: 12px;
 		color: var(--theme--form--field--input--foreground-subdued);
 		cursor: pointer;

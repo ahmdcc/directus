@@ -101,7 +101,7 @@ function onInput(event: Event) {
 	align-items: center;
 
 	.prepend {
-		margin-right: 8px;
+		margin-left: 8px;
 	}
 
 	.slider {

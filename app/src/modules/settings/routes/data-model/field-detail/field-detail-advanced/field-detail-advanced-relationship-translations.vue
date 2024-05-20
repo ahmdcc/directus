@@ -69,7 +69,7 @@ const relatedPrimaryKey = computed(
 			<div class="spacer" />
 			<v-checkbox v-model="autoGenerateJunctionRelation" :disabled="isExisting" block :label="t('auto_fill')" />
 			<v-icon class="arrow" name="arrow_forward" />
-			<v-icon class="arrow" name="arrow_back" />
+			<v-icon class="arrow" name="arrow_forward" />
 		</div>
 
 		<div class="relational-triggers">

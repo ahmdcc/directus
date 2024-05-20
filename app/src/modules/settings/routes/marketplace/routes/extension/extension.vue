@@ -53,7 +53,7 @@ const navigateBack = () => {
 	<private-view :title="t('marketplace')">
 		<template #title-outer:prepend>
 			<v-button v-tooltip.bottom="t('back')" class="header-icon" rounded icon secondary exact @click="navigateBack">
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 

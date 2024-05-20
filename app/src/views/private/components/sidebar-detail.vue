@@ -115,7 +115,7 @@ function onClick() {
 	.close {
 		position: absolute;
 		top: 0;
-		right: 0;
+		left: 0;
 		z-index: 50;
 		display: flex;
 		align-items: center;
@@ -149,7 +149,7 @@ function onClick() {
 	.title {
 		position: absolute;
 		top: 50%;
-		left: 52px;
+		right: 52px;
 		overflow: hidden;
 		white-space: nowrap;
 		transform: translateY(-50%);

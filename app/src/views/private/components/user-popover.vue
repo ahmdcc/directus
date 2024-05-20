@@ -113,7 +113,7 @@ function navigateToUser() {
 	cursor: pointer;
 
 	.v-avatar {
-		margin-right: 16px;
+		margin-left: 16px;
 	}
 
 	.status {
@@ -169,7 +169,7 @@ function navigateToUser() {
 	.avatar {
 		width: 80px;
 		height: 80px;
-		margin-right: 16px;
+		margin-left: 16px;
 	}
 
 	div {

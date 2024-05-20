@@ -575,7 +575,7 @@ const allowDrag = computed(() => canDrag.value && totalItemCount.value <= limitW
 	--v-icon-color: var(--theme--form--field--input--foreground-subdued);
 	--v-icon-color-hover: var(--theme--danger);
 
-	margin-right: 8px;
+	margin-left: 8px;
 	color: var(--theme--form--field--input--foreground-subdued);
 	transition: color var(--fast) var(--transition);
 

@@ -171,7 +171,7 @@ You'll now see your trigger in an empty grid area. Its time to start adding oper
    - Click <span mi icon>remove</span> to add an operation to the **failure path**.
 10. Repeat steps 5-10 to build out your flow as desired.
 11. Click <span mi btn>done</span> to confirm and create your flow.
-12. Click <span mi btn>arrow_back</span> to return to the flows list.
+12. Click <span mi btn>arrow_forward</span> to return to the flows list.
 13. Once created, you may need to re-edit your flow, toggle it to inactive, or delete it.
 
 ### Edit a Flow

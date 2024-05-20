@@ -160,7 +160,7 @@ function toggleDescending() {
 	color: var(--theme--foreground-subdued);
 
 	.size-selector {
-		margin-right: 16px;
+		margin-left: 16px;
 		transition: color var(--fast) var(--transition);
 
 		&:hover {
@@ -169,7 +169,7 @@ function toggleDescending() {
 	}
 
 	.sort-selector {
-		margin-right: 8px;
+		margin-left: 8px;
 		transition: color var(--fast) var(--transition);
 
 		&:hover {

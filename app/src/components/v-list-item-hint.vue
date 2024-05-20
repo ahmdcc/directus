@@ -42,7 +42,7 @@ withDefaults(defineProps<Props>(), {
 
 				&:not(:only-child) {
 					&:first-child {
-						margin-right: 16px;
+						margin-left: 16px;
 					}
 
 					&:last-child {

@@ -295,7 +295,7 @@ async function onSort(updates: Collection[], removeGroup = false) {
 }
 
 .collection-icon {
-	margin-right: 8px;
+	margin-left: 8px;
 }
 
 .hidden .collection-name {

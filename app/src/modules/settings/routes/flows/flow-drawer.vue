@@ -242,7 +242,7 @@ async function save() {
 				rounded
 				@click="isNew ? (currentTab = ['trigger_setup']) : save()"
 			>
-				<v-icon :name="isNew ? 'arrow_forward' : 'check'" />
+				<v-icon :name="isNew ? 'arrow_back' : 'check'" />
 			</v-button>
 			<v-button
 				v-if="currentTab[0] === 'trigger_setup'"

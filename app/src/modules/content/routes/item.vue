@@ -508,7 +508,7 @@ function revert(values: Record<string, any>) {
 				exact
 				@click="navigateBack"
 			>
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 

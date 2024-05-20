@@ -263,7 +263,7 @@ function emitValue() {
 	}
 
 	.icon-filter {
-		margin-right: 8px;
+		margin-left: 8px;
 	}
 
 	&:focus-within,
@@ -275,7 +275,7 @@ function emitValue() {
 		width: 200px;
 
 		.icon-clear {
-			margin-right: 8px;
+			margin-left: 8px;
 		}
 
 		input {

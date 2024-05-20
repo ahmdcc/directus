@@ -751,7 +751,7 @@ const { createAllowed, updateAllowed, deleteAllowed, selectAllowed } = useRelati
 
 	span {
 		width: auto;
-		margin-right: 8px;
+		margin-left: 8px;
 	}
 
 	.v-select {

@@ -46,7 +46,7 @@ async function deleteAndQuit() {
 
 		<template #title-outer:prepend>
 			<v-button class="header-icon" rounded icon exact :to="`/settings/webhooks/`">
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 

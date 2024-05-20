@@ -132,7 +132,7 @@ function useDelete() {
 		--v-avatar-color: var(--theme--background-accent);
 
 		flex-basis: 24px;
-		margin-right: 8px;
+		margin-left: 8px;
 
 		.v-icon {
 			--v-icon-color: var(--theme--foreground-subdued);
@@ -141,7 +141,7 @@ function useDelete() {
 
 	.name {
 		flex-grow: 1;
-		margin-right: 8px;
+		margin-left: 8px;
 		font-weight: 600;
 	}
 

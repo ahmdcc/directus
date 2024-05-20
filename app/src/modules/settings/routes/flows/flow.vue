@@ -535,7 +535,7 @@ function discardAndLeave() {
 	<private-view v-else :title="flow?.name ?? t('loading')">
 		<template #title-outer:prepend>
 			<v-button class="header-icon" rounded icon exact to="/settings/flows">
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 

@@ -96,7 +96,7 @@ const onDeleteOptions = computed(() =>
 
 			<v-input disabled :model-value="currentField" />
 			<v-input :model-value="relatedPrimaryKey" disabled :placeholder="t('primary_key') + '...'" />
-			<v-icon class="arrow" name="arrow_back" />
+			<v-icon class="arrow" name="arrow_forward" />
 		</div>
 
 		<v-divider v-if="!isExisting" large :inline-title="false">{{ t('corresponding_field') }}</v-divider>

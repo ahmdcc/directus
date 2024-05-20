@@ -224,7 +224,7 @@ function useMovetoFolder() {
 	<private-view v-else :title="loading || !item ? t('loading') : item.title">
 		<template #title-outer:prepend>
 			<v-button class="header-icon" rounded icon secondary exact @click="navigateBack">
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 

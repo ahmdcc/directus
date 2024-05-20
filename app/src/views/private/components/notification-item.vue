@@ -125,7 +125,7 @@ const done = async () => {
 		.icon {
 			width: auto;
 			height: auto;
-			margin-right: 8px;
+			margin-left: 8px;
 			background-color: transparent;
 		}
 

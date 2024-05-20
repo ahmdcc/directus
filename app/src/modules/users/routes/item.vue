@@ -263,7 +263,7 @@ function revert(values: Record<string, any>) {
 	<private-view :title="title">
 		<template #title-outer:prepend>
 			<v-button class="header-icon" rounded icon secondary exact @click="navigateBack">
-				<v-icon name="arrow_back" />
+				<v-icon name="arrow_forward" />
 			</v-button>
 		</template>
 
@@ -473,7 +473,7 @@ function revert(values: Record<string, any>) {
 		justify-content: center;
 		width: 84px;
 		height: 84px;
-		margin-right: 16px;
+		margin-left: 16px;
 		overflow: hidden;
 		background-color: var(--theme--background-normal);
 		border: solid 6px var(--white);

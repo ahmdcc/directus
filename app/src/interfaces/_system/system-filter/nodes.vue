@@ -435,7 +435,7 @@ function isExistingField(node: Record<string, any>): boolean {
 
 	.plain-name {
 		display: inline-block;
-		margin-right: 8px;
+		margin-left: 8px;
 		white-space: nowrap;
 	}
 
@@ -455,7 +455,7 @@ function isExistingField(node: Record<string, any>): boolean {
 		position: relative;
 		z-index: 2;
 		display: inline-block;
-		margin-right: 8px;
+		margin-left: 8px;
 
 		&::before {
 			position: absolute;

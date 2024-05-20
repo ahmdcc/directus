@@ -177,7 +177,7 @@ function emitValue() {
 	.custom-tags-delimiter,
 	.tag {
 		margin-top: 8px;
-		margin-right: 8px;
+		margin-left: 8px;
 	}
 
 	.presets {

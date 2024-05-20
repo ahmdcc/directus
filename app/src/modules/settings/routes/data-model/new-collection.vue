@@ -483,7 +483,7 @@ function getSystemRelations() {
 				rounded
 				@click="currentTab = ['optional_system_fields']"
 			>
-				<v-icon name="arrow_forward" />
+				<v-icon name="arrow_back" />
 			</v-button>
 			<v-button
 				v-if="currentTab[0] === 'optional_system_fields'"
